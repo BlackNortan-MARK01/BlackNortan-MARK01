@@ -10,7 +10,7 @@
 ---
 
 ### INFO
-- **Role:** `Fullstack Developer (Final Year)`
+- **Role:** `Fullstack Developer`
 - **Specialty:** Software Development & Automation Testing
 - **Hobbies:** 🍳 Cooking, 🎧 Music, 🎮 Games, ⛩️ Anime, 🎨 Drawing
 
