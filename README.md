@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Language-Thai_%2F_English-success?style=flat-square" />
 </p>
 
-> **"A Software Developer student seeking for more skills, always taking a chance of possibility. Passionate about something New and Cute!"**
+> **"A Software Developer seeking for more skills, always taking a chance of possibility. Passionate about something New and Cute!"**
 
 ---
 
